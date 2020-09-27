@@ -56,6 +56,19 @@ If you want to let folks know you can't complete a task, use the `todo_cancel` e
 
 It's the simplest way to share updates in Slack! 
 
+### Shortcuts
+
+You can create checkboxes even quicker using Slack's auto-complete:
+
+```
+:do   ->  :todo
+:don  ->  :todo_done
+:doi  ->  :todo_doing
+:ca   ->  :todo_cancel
+```
+
+Copy and paste is also an option!
+
 ## Artwork
 
 If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder.
