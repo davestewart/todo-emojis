@@ -60,6 +60,18 @@ It's the simplest way to share updates in Slack!
 
 If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder.
 
+## Share this!
+
+It would be great if you would upvote this on Product Hunt:
+
+<a href="https://www.producthunt.com/posts/todo-emojis?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-todo-emojis" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=268429&theme=dark" alt="Todo Emojis - Slack emojis to create text-based to-do lists | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+Twitter is also another great place to share:
+
+- https://twitter.com/dave_stewart/status/1309861492007862277
+
+Thanks :)
+
 ## License
 
 This work is licensed as [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
