@@ -30,13 +30,31 @@ When you add the emojis, be sure to name them the same as the filenames, i.e.:
 - `todo_done`
 - `todo_cancel`
 
-### Creating a to do list
+### Create a to do list
 
 Once added, just type `:todo` then choose the emoji from the list:
 
-![emojis](./docs/choose.png)
+![emojis](./docs/edit-choose.png)
 
-You can then label the todo with some text, and later, update your progress just by changing the emoji.
+Then, add the text of the todo (and any other todo's, of course):
+
+![todo](docs/edit-todo.png)
+
+### Share progress
+
+You can use the `todo_doing` emoji to indicate you've started a task:
+
+![todo](docs/edit-doing.png)
+
+When you've completed your task, edit the message and change the emoji to `todo_done`:
+
+![todo](docs/edit-done.png)
+
+If you want to let folks know you can't complete a task, use the `todo_cancel` emoji:
+
+![todo](docs/edit-cancel.png)
+
+It's the simplest way to share updates in Slack! 
 
 ## Artwork
 
