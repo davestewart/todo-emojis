@@ -56,6 +56,8 @@ If you want to let folks know you can't complete a task, use the `todo_cancel` e
 
 It's the simplest way to share updates in Slack! 
 
+## Tips
+
 ### Shortcuts
 
 You can create checkboxes even quicker using Slack's auto-complete:
@@ -68,6 +70,12 @@ You can create checkboxes even quicker using Slack's auto-complete:
 ```
 
 Copy and paste is also an option!
+
+### Make a channel
+
+Because you'll want to revisit your todo's throughout the day (or week), it can be useful to create a dedicated channel, such as `#todos`,`#tasks`, `#today` or maybe `#shipped`.
+
+Because you and your team will only be creating and updating a single message per day or week, it means it won't scroll so will be easy to check in with.
 
 ## Artwork
 
