@@ -75,7 +75,7 @@ Copy and paste is also an option!
 
 
 
-Because you and your team will only be creating and updating a single message per day (or week) you may find it useful to useful to create a dedicated channel, such as `#todos`, `#tasks`, `#today` or maybe `#shipped`.
+Because you and your team will only be creating and updating a single message per day (or week) you may find it useful to create a dedicated channel, such as `#todos`, `#tasks`, `#today` or maybe `#shipped`.
 
 Having a dedicated area for todo's means tasks won't get lost in a sea of other messages, and also provides a nice log of what got done and when.
 
