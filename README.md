@@ -87,7 +87,7 @@ If you want to modify the emojis, the original [Sketch](https://www.sketch.com/)
 
 It would be great if you would upvote this on Product Hunt:
 
-<a href="https://www.producthunt.com/posts/todo-emojis?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-todo-emojis" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=268429&theme=dark" alt="Todo Emojis - Slack emojis to create text-based to-do lists | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/todo-emojis?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-todo-emojis" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=268429&theme=light" alt="Todo Emojis - Slack emojis to create text-based to-do lists | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 Twitter is also another great place to share:
 
