@@ -85,6 +85,7 @@ Let me know!
 
 - [Tweet me](https://twitter.com/dave_stewart)
 - [Comment here](https://github.com/davestewart/todo-emojis/issues/1)
+- [Comment on Product Hunt](https://www.producthunt.com/posts/todo-emojis)
 
 ## Share this!
 
