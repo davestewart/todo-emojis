@@ -84,7 +84,7 @@ Having a dedicated area for todo's means tasks won't get lost in a sea of other 
 Let me know!
 
 - [Tweet me](https://twitter.com/dave_stewart)
-- [Comment here](issues/1)
+- [Comment here](https://github.com/davestewart/todo-emojis/issues/1)
 
 ## Share this!
 
