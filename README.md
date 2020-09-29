@@ -18,7 +18,7 @@ They were created by [Dave Stewart](https://twitter.com/dave_stewart) for use in
 
 To get the emojis into Slack:
 
-- download the [zip](https://github.com/davestewart/todo-emojis/releases/tag/v1.0.0) with the [png](./emojis/@4x) files
+- download the [zip](https://github.com/davestewart/todo-emojis/archive/v1.0.0.zip) with the [png](./emojis/@4x) files
 - follow the instructions to add emojis [here](https://slack.com/intl/en-gb/help/articles/206870177-Add-custom-emoji-to-your-workspace-Add-custom-emoji-to-your-workspace)
 
 Use the high-res `@4x` versions to support high-DPI displays.
