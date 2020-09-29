@@ -79,9 +79,12 @@ Because you and your team will only be creating and updating a single message pe
 
 Having a dedicated area for todo's means tasks won't get lost in a sea of other messages, and also provides a nice log of what got done and when.
 
-## Artwork
+## Are you using Todo Emojis?
 
-If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder.
+Let me know!
+
+- [Tweet me](https://twitter.com/dave_stewart)
+- [Comment here](issues/1)
 
 ## Share this!
 
@@ -95,7 +98,9 @@ Twitter is also another great place to share:
 
 Thanks :)
 
-## License
+## Artwork
+
+If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder.
 
 This work is licensed as [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
