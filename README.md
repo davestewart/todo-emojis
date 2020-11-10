@@ -21,7 +21,7 @@ To get the emojis into Slack:
 - download the [zip](https://github.com/davestewart/todo-emojis/archive/v1.0.0.zip) with the [png](./emojis/@4x) files
 - follow the instructions to add emojis [here](https://slack.com/intl/en-gb/help/articles/206870177-Add-custom-emoji-to-your-workspace-Add-custom-emoji-to-your-workspace)
 
-Use the high-res `@4x` versions to support high-DPI displays.
+Use the emojis in the `/high` folder to support high-DPI displays.
 
 When you add the emojis, be sure to name them the same as the filenames, i.e.:
 
@@ -102,7 +102,9 @@ Thanks :)
 
 ## Artwork
 
-If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder.
+If you want to modify the emojis, the original [Sketch](https://www.sketch.com/) file is in the [artwork](./artwork) folder, along with some alternate designs:
+
+![live example](./docs/sketch.png)
 
 This work is licensed as [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
