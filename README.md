@@ -29,6 +29,8 @@ When you add the emojis, be sure to name them the same as the filenames, i.e.:
 - `todo_doing`
 - `todo_done`
 - `todo_cancel`
+- `todo_pause`
+
 
 ### Create a to do list
 
@@ -50,7 +52,7 @@ When you've completed your task, edit the message and change the emoji to `todo_
 
 ![todo](docs/edit-done.png)
 
-If you want to let folks know you can't complete a task, use the `todo_cancel` emoji:
+If you want to let folks know you can't complete a task, use the `todo_pause` or `todo_cancel` emoji:
 
 ![todo](docs/edit-cancel.png)
 
@@ -66,14 +68,13 @@ You can create checkboxes even quicker using Slack's auto-complete:
 :do   ->  :todo
 :don  ->  :todo_done
 :doi  ->  :todo_doing
+:pau  ->  :todo_pause
 :ca   ->  :todo_cancel
 ```
 
 Copy and paste is also an option!
 
 ### Make a channel
-
-
 
 Because you and your team will only be creating and updating a single message per day (or week) you may find it useful to create a dedicated channel, such as `#todos`, `#tasks`, `#today` or maybe `#shipped`.
 
